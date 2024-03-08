@@ -19,4 +19,4 @@ elif operacao == 3:
 elif operacao == 4:
     print("A divisão é ", val_1 / val_2)
 else :
-    print("Siga as instruções")
+    print("Siga as instruções")k
